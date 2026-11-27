@@ -13,6 +13,12 @@
       "description": "Basic: the product's name, version, SRID, languages, package, database and deployment settings",
       "addedAt": "2026-11-27T12:37:50.018Z"
     },
+    "github:carlos-sf5/basic-module": {
+      "kind": "module",
+      "name": "basic-module",
+      "description": "The calculator every product is: display, numeric keyboard, clear, and the REST service that the operations fill in",
+      "addedAt": "2026-11-27T12:39:35.707Z"
+    },
     "github:carlos-sf5/common": {
       "kind": "metamodel",
       "name": "common",
