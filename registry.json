@@ -1,6 +1,12 @@
 {
   "registryVersion": 1,
   "packages": {
+    "github:carlos-sf5/advanced-operations-module": {
+      "kind": "module",
+      "name": "advanced-operations-module",
+      "description": "The advanced operations of the calculator: divide, power and square root; divide and square root need decimal numbers",
+      "addedAt": "2026-11-27T12:39:08.575Z"
+    },
     "github:carlos-sf5/basic": {
       "kind": "metamodel",
       "name": "basic",
