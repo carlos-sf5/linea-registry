@@ -6,6 +6,12 @@
       "name": "basic",
       "description": "Basic: the product's name, version, SRID, languages, package, database and deployment settings",
       "addedAt": "2026-11-27T12:37:50.018Z"
+    },
+    "github:carlos-sf5/common": {
+      "kind": "metamodel",
+      "name": "common",
+      "description": "Shared terminals and data types (a library: it has no entry rule)",
+      "addedAt": "2026-11-27T12:38:15.213Z"
     }
   }
 }
