@@ -12,6 +12,12 @@
       "name": "common",
       "description": "Shared terminals and data types (a library: it has no entry rule)",
       "addedAt": "2026-11-27T12:38:15.213Z"
+    },
+    "github:carlos-sf5/featuremodel": {
+      "kind": "metamodel",
+      "name": "featuremodel",
+      "description": "Feature model of an SPL (features, groups, constraints) and the feature selection of its products. Configured once per SPL, instantiated per product",
+      "addedAt": "2026-11-27T12:38:39.381Z"
     }
   }
 }
