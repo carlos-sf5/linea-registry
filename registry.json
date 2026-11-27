@@ -25,6 +25,12 @@
       "description": "The basic operations of the calculator: add, subtract and multiply",
       "addedAt": "2026-11-27T12:40:08.204Z"
     },
+    "github:carlos-sf5/capabilities-module": {
+      "kind": "module",
+      "name": "capabilities-module",
+      "description": "The capabilities of the calculator: decimal numbers",
+      "addedAt": "2026-11-27T12:40:34.585Z"
+    },
     "github:carlos-sf5/common": {
       "kind": "metamodel",
       "name": "common",
