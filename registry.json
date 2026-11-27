@@ -1,4 +1,11 @@
 {
   "registryVersion": 1,
-  "packages": {}
+  "packages": {
+    "github:carlos-sf5/basic": {
+      "kind": "metamodel",
+      "name": "basic",
+      "description": "Basic: the product's name, version, SRID, languages, package, database and deployment settings",
+      "addedAt": "2026-11-27T12:37:50.018Z"
+    }
+  }
 }
