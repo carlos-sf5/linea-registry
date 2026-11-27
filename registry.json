@@ -19,6 +19,12 @@
       "description": "The calculator every product is: display, numeric keyboard, clear, and the REST service that the operations fill in",
       "addedAt": "2026-11-27T12:39:35.707Z"
     },
+    "github:carlos-sf5/basic-operations-module": {
+      "kind": "module",
+      "name": "basic-operations-module",
+      "description": "The basic operations of the calculator: add, subtract and multiply",
+      "addedAt": "2026-11-27T12:40:08.204Z"
+    },
     "github:carlos-sf5/common": {
       "kind": "metamodel",
       "name": "common",
